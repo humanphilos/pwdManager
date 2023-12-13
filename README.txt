@@ -1,0 +1,1 @@
+- Le password vengono salvate su un file CSV nello stesso percorso dell'eseguibile, quindi è meglio fare una copia di tutta la cartella sul proprio PC
